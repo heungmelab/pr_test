@@ -13,3 +13,6 @@ function kcj(a, b){
 function hjs(a, b){
   return a-b;
 }
+function ydh(a, b){
+ return a-b;
+}
