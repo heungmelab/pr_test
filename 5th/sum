@@ -7,3 +7,7 @@ function lsh(a, b){
 function kdh(a, b){
   return a ** b;
 }
+
+function ydh(a, b) {
+ return a - b;
+}
