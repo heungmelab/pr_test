@@ -10,3 +10,12 @@ function kdh(a, b){
 function cjb(a, b){
   return a-b:
 }
+function kcj(a, b){
+  return a-b;
+}
+function hjs(a, b){
+  return a-b;
+}
+function cjb(a, b){
+  return a-b:
+}
