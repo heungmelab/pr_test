@@ -5,8 +5,5 @@ function sum(a, b) {
 
 function shj(a, b) {
   return a / b;
-=======
-function shj(a, b) {
-  return a + b;
->>>>>>> efdb20fa53f0ae0780ee2e43d692f27ee338b4fd
+
 }
