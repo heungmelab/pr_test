@@ -20,3 +20,6 @@ function kdy(a, b) {
 function sap(a, b) {
   return a + b;
 }
+function kbj(a, b){
+  return a-b;
+}
