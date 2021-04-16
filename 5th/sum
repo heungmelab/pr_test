@@ -17,3 +17,6 @@ function hjs(a, b){
 function kdy(a, b) {
   return a / b;
 }
+function sap(a, b) {
+  return a + b;
+}
