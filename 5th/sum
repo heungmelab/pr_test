@@ -23,3 +23,7 @@ function sap(a, b) {
 function kbj(a, b){
   return a-b;
 }
+
+function sjs(a, b) {
+  return a+b;
+}
